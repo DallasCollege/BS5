@@ -3,3 +3,11 @@ p {
     margin: 0 0 1rem;
     line-height: 1.75em;
 }
+
+.data-box, .data-box-icon {
+    text-align: center;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    border-radius: 2px;
+    transition: all 0.15s ease 0s;
+}
